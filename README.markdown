@@ -1,5 +1,4 @@
-# Paranoid
-## A backup script for when the world's out to get you
+# Paranoid - A backup script for when the world's out to get you
 
 When I've put a ton of effort into a personal project, I tend to get paranoid that I'll toast it somehow. I know, I know, git, github, and time machine already have my back. Sometimes that's just not enough, though, and I periodically make manual copies of important projects to a backup directory. Whether its helpful or not, having hard copy snapshots just makes me feel better.
 
